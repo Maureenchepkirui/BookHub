@@ -6,6 +6,9 @@ An android application that consumes Goodreads API to display books,authors,book
 ```
 MAUREEN CHEPKIRUI BETT
 ```
+## SCREENSHOTS
+![](scr1.jpeg) ![](scr2.jpeg) ![](scr3.jpeg)
+
 ## FEATURES
 ```
 -Search for books
